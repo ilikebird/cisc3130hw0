@@ -2,8 +2,7 @@
 /**
 *@author: Maher Nigar
 *@since: 02-02-2022
-*@Description: This program will print out "Hello World" and then it will
-* be uploaded to gitHub.
+*@Description: This program will print out "Hello World" and then it will be uploaded to gitHub.
 **/
 
 package cisc3130hw0;
